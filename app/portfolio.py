@@ -1,4 +1,6 @@
 import pandas as pd
+import sqlite3
+import pysqlite3
 import chromadb
 import uuid
 
